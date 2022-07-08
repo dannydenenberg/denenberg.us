@@ -30,7 +30,7 @@
   "devDependencies": {
     "copy-webpack-plugin": "^4.0.1",
     "gh-pages": "^0.11.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "offline-plugin": "^4.6.2",
     "stylelint-order": "^0.4.3"
   },
